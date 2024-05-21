@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "Detrac_Checkpoint",
+    "name": "Detrac Checkpoint",
     "slug": "Detrac_Checkpoint",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/LOGO DCR LIVE-01.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#10385B"
     },
     "ios": {
       "supportsTablet": true
